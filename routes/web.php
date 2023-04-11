@@ -23,3 +23,7 @@ Route::get('index/', function () {
 Route::get('layout/', function () {
     return view('layout');
 });
+
+Route::get('day3/', function () {
+    return view('Day3.index');
+});

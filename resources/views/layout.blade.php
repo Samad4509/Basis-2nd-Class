@@ -9,7 +9,7 @@
         <table border="1" width="1000" align="center">
             <tr>
                 <td width="200" height="200"></td>
-                <td ></td>
+                <td></td>
             </tr>
             <tr>
                 <td colspan="2" height="50"></td>
