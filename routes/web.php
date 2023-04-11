@@ -27,3 +27,6 @@ Route::get('layout/', function () {
 Route::get('day3/', function () {
     return view('Day3.index');
 });
+Route::get('degin/', function () {
+    return view('Degin.index');
+});
